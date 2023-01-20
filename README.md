@@ -1,4 +1,5 @@
-# Hosting a Static WEbsite on AWS S3 bucket with CloudFront
+# Hosting a Static WEbsite on a private AWS S3 bucket with CloudFront
+![Archeiture Diagram](main3.png)
 
 # Author:
 Raji Risikat Yewande
