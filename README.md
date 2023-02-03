@@ -1,5 +1,5 @@
 # Hosting a Static WEbsite on a private AWS S3 bucket with CloudFront
-![Archeiture Diagram](main3.png)
+![Archeiture Diagram](s3.png)
 
 # Author:
 Raji Risikat Yewande
@@ -12,3 +12,4 @@ Raji Risikat Yewande
  * Using ClondFront Content Delivery.
 
 # Steps:
+Check out the detailed Steps with follow along  screenshots in this [ARTICLE](https://dev.to/wandexdev/how-to-deploy-a-static-website-on-a-private-s3-bucket-served-by-cloudfront-on-a-custom-domain-name-24f5)
